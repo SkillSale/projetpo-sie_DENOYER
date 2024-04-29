@@ -31,3 +31,9 @@ body {
 .container p {
     font-size: 18px;
 }
+.author {
+    text-align: right;
+}
+.author p {
+    text-align: right;
+}
